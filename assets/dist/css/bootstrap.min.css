@@ -12667,3 +12667,11 @@ fieldset:disabled .btn {
 /*# sourceMappingURL=bootstrap.min.css.map */
 
 .semcolor{background-color:#eb589b ;}
+
+.carousel-indicators {
+    position: inherit;
+}
+
+.carousel {
+    margin-bottom: 1rem;
+}
