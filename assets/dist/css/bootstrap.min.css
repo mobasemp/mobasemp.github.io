@@ -7701,6 +7701,11 @@ fieldset:disabled .btn {
     background-color: RGBA(33, 37, 41, var(--bs-bg-opacity, 1)) !important
 }
 
+.text-bg-sem {
+    color: #fff !important;
+    background-color: RGBA(235, 88, 155, var(--bs-bg-opacity, 1)) !important
+}
+
 .link-primary {
     color: #0d6efd !important
 }
